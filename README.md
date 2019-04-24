@@ -1,1 +1,1 @@
-# GOT game
+# Game of Thrones board game
