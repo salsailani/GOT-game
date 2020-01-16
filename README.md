@@ -11,10 +11,7 @@
 #The board presented to the user should show the uncovered tiles, unless kings occupy those towns.
 #-------------------------------------------------------------------------------------------------------------------------------------------------------
 #If the user guesses the location of a king then that king is automatically defeated and the user gains 2 knights
-# Somewhere, hidden in one random town in the kingdom, three powerful dragons are hidden. If the user’s move is to this town, the user is presented with the following two choices:
-#1.	Swear allegiance to the Mother of Dragons. In this case the user receives a bonus army of 5 knights and continues the game.
-#2. if they refuse, they lose and end the game
-#-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #The game ends when:
 #1. The user has run out of knights.
 #2.	The user has encountered the city of the dragons and refused to swear allegiance to their mother.
